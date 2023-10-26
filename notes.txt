@@ -1,0 +1,27 @@
+documentation:
+
+1. usertypes 
+
+# customer : order food
+# retaurants / provider
+# delivery person
+# admin
+
+2. activities/function
+
+# login
+# search
+# add to cart
+# wishlist
+# profile updation
+# comparing food price
+# suggestion see more
+# reviews posting
+# managing payments
+# see reviews
+# history
+# food tracking
+# complaints raising
+# chat options
+# order cansellation
+# log out
